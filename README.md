@@ -10,7 +10,7 @@ Get in Touch
 If you have any questions, or suggestions, or want to connect, feel free to reach out to me:
 
 GitHub: @developer-rp
-Email: developer.rp@example.com
+Email: designclimaxer@gmail.com
 LinkedIn: Your LinkedIn Profile
 Thank you for visiting my GitHub repository. Happy coding! 🚀
 
