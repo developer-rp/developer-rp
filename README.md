@@ -18,16 +18,19 @@
 | 🧩 | I love solving problems, building systems that matter, and experimenting with new frameworks. |
 | ⚙️ | My projects often focus on blending web, desktop, and database layers for complete solutions. |
 
----
+<!-----
 
 ## 🚀 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=developer-rp&theme=tokyonight&hide_border=true" width="420" />
-  <img src="https://github-readme-stats.vercel.app/api?username=developer-rp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="420" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=developer-rp&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=7200" width="420" />
+
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-rp&layout=compact&theme=tokyonight&hide_border=true" width="400" />
-</div>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-rp&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=7200&langs_count=6" width="400" />
+</div>-->
 
 ---
 
